@@ -19,7 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Learnt things from this Project 
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-- Tried using color palette and stick with that colors throughout the dashboard [Color palette link]((https://coolors.co/palettes/trending)
+- Tried using color palette and stick with that colors throughout the dashboard [Color palette link](https://coolors.co/palettes/trending)
 
 ## Some Important insights from the Dashboard
 
