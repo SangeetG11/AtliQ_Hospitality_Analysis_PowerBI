@@ -1,6 +1,6 @@
 # AtliQ Hospitality Analysis - PowerBI
 
-Link to [Interactive Dashboard]([https://www.novypro.com/project/-codebasics-september-month-resume-challenge](https://app.powerbi.com/view?r=eyJrIjoiOTRiOWJmMzQtZjllZS00ZTkwLWE0NTItZTA5Y2EwMDE4Nzg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTRiOWJmMzQtZjllZS00ZTkwLWE0NTItZTA5Y2EwMDE4Nzg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem statement
 
@@ -19,7 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Learnt things from this Project 
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-- Tried using color palette and stick with that colors throughout the dashboard ([Color palette link]([https://colorhunt.co/palette/06113cff8c32ddddddeeeeee](https://coolors.co/palettes/trending))
+- Tried using color palette and stick with that colors throughout the dashboard ([Color palette link]((https://coolors.co/palettes/trending))
 
 ## Some Important insights from the Dashboard
 
